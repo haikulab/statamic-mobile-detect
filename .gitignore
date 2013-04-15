@@ -1,0 +1,32 @@
+# OS generated files           #
+################################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# logs and databases           #
+################################
+*.log
+*.sql
+*.sqlite
+
+# IDE project files            #
+################################
+.cache/
+.viminfo
+/nbproject
+/.project
+/.sass-cache
+/.idea
+/cgi-bin
+*.sublime-project
+*.sublime-workspace
+
+# misc files                   #
+################################
+TODO
