@@ -9,15 +9,25 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 2. Ensure the folder name is `mobile_detect` (Github timestamps the download folder).
 3. Enjoy.
 
-## Example Tag
+## Usage
+
+### Core Tag
 
     {{ mobile_detect }}
 
-### Example Output for {{ mobile_detect }}
+### Example Output for `{{ mobile_detect }}``
 
 + `computer`
 + `tablet`
 + `phone`
+
+### Get `Mobile Detect` library version
+
+    {{ mobile_detect:library_version }}
+
+### Example Output for `{{ mobile_detect:library_version }}`
+
+    2.6.0
 
 ## Roadmap
 
@@ -27,6 +37,8 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 ## Tested on
 
 + Statamic 1.4.2
++ Statamic 1.5 build 6
+
 
 ## Disclaimer
 
