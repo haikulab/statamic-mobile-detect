@@ -24,6 +24,10 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 + Adding more functionality that exists in the Mobile Detect library.
 + Compatibility with Statamic 1.5
 
+## Tested on
+
++ Statamic 1.4.2
+
 ## Disclaimer
 
 I've 'written' this plugin for my own use. It comes without any guarantee, so your mileage may vary in using it. If you find bugs or have great additions you'd like to share, use github to fork the project and share your improvements by initiating pull request
