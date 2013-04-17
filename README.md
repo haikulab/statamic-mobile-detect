@@ -15,13 +15,13 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
     {{ mobile_detect }}
 
-### Example Output for `{{ mobile_detect }}``
+### Example Output for `{{ mobile_detect }}`
 
 + `computer`
 + `tablet`
 + `phone`
 
-### Get `Mobile Detect` library version
+### Get `Mobile Detect` library version number
 
     {{ mobile_detect:library_version }}
 
