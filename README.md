@@ -27,7 +27,7 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.6.1
+    2.6.2
 
 ## Roadmap
 
