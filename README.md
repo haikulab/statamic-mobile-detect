@@ -1,4 +1,4 @@
-![Statamic CMS Logo](http://statamic.com/assets/img/brand/bw-logo-750.png "Statamic CMS")
+![Statamic CMS Logo](statamic-logo.png "Statamic CMS")
 
 # Statamic Mobile Detect Plugin
 
