@@ -27,17 +27,16 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.6.2
+    2.6.6
 
 ## Roadmap
 
 + Adding more functionality that exists in the Mobile Detect library.
-+ Compatibility with Statamic 1.5
 
 ## Tested on
 
 + Statamic 1.4.2
-+ Statamic 1.5 RC1
++ Statamic 1.6.1
 
 ## Disclaimer
 
