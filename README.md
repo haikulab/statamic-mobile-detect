@@ -27,7 +27,7 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.6.7
+    2.6.9
 
 ## Roadmap
 
@@ -35,7 +35,6 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ## Tested on
 
-+ Statamic 1.4.2
 + Statamic 1.6.1
 + Statamic 1.6.2
 
