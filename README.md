@@ -37,6 +37,7 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 + Statamic 1.6.1
 + Statamic 1.6.2
++ Statamic 1.6.3
 
 ## Disclaimer
 

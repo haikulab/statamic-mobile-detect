@@ -9,6 +9,14 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
+
+# local unit testing
+/vendor
+/tests
+/codecept*
+/composer*
+
+
 # logs and databases           #
 ################################
 *.log
