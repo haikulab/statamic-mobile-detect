@@ -9,12 +9,14 @@ Icon?
 ehthumbs.db
 Thumbs.db
 
-
 # local unit testing
 /vendor
 /tests
 /codecept*
 /composer*
+
+# nodejs
+node_modules/*
 
 
 # logs and databases           #
