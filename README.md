@@ -35,13 +35,13 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ## Tested on
 
-+ Statamic 1.6.1
-+ Statamic 1.6.2
-+ Statamic 1.6.3
-+ Statamic 1.6.4
-+ Statamic 1.6.5
-+ Statamic 1.6.6
-+ Statamic 1.6.7
++ ![Statamic 1.6.1](http://b.repl.ca/v1/Statamic-1.6.1-green.png)
++ ![Statamic 1.6.2](http://b.repl.ca/v1/Statamic-1.6.2-green.png)
++ ![Statamic 1.6.3](http://b.repl.ca/v1/Statamic-1.6.3-green.png)
++ ![Statamic 1.6.4](http://b.repl.ca/v1/Statamic-1.6.4-green.png)
++ ![Statamic 1.6.5](http://b.repl.ca/v1/Statamic-1.6.5-green.png)
++ ![Statamic 1.6.6](http://b.repl.ca/v1/Statamic-1.6.6-green.png)
++ ![Statamic 1.6.7](http://b.repl.ca/v1/Statamic-1.6.7-green.png)
 
 ## Disclaimer
 
