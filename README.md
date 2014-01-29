@@ -27,11 +27,12 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.7.2
+    2.7.7
 
 ## Roadmap
 
 + Adding more functionality that exists in the Mobile Detect library.
++ ![Mobile Detect 2.7.2](http://b.repl.ca/v1/Mobile_Detect-2.7.2-green.png)
 
 ## Tested on
 
