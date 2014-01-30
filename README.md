@@ -2,12 +2,40 @@
 
 # Statamic Mobile Detect Plugin
 
-This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect)
+This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.7.7](http://b.repl.ca/v1/Mobile_Detect-2.7.2-green.png)
 
-## Installing
-1. Download the zip file (or clone via git) and unzip it or clone the repo into `/_add-ons/`.
-2. Ensure the folder name is `mobile_detect` (Github timestamps the download folder).
-3. Enjoy.
+## Installing via git
+
+1. Clone the repo via git into `/_add-ons/`.
+
+        cd _add-ons/
+        git clone git@github.com:haikulab/statamic-mobile-detect.git mobile_detect
+
+2. Pull in the `Mobile Detect` repository using `git submodules`
+
+        cd mobile_detect/
+        git submodule init
+        git submodule update
+
+You should see something like this:
+
+        → git submodule init
+        Submodule 'Mobile-Detect' (git://github.com/serbanghita/Mobile-Detect.git) registered for path 'Mobile-Detect'
+
+        → git submodule update
+        Cloning into 'Mobile-Detect'...
+        remote: Reusing existing pack: 1512, done.
+        remote: Total 1512 (delta 0), reused 0 (delta 0)
+        Receiving objects: 100% (1512/1512), 1.94 MiB | 596.00 KiB/s, done.
+        Resolving deltas: 100% (825/825), done.
+        Submodule path 'Mobile-Detect': checked out 'd6943b36f45a9ee654e87cd98832890797a228fb'
+
+3. Ensure the plugin-in folder name is `mobile_detect` (and not statamic-mobile-detect).
+
+        mv statamic-mobile-detect mobile_detect
+
+4. Clear the Statamic cache - [How to clear the cache](http://statamic.com/learn/advanced-features/caching)
+5. Use the tags listed in **Usage**.
 
 ## Usage
 
@@ -28,11 +56,6 @@ This plugin could not exist without the amazing work of the [Mobile Detect proje
 ### Example Output for `{{ mobile_detect:library_version }}`
 
     2.7.7
-
-## Roadmap
-
-+ Adding more functionality that exists in the Mobile Detect library.
-+ ![Mobile Detect 2.7.2](http://b.repl.ca/v1/Mobile_Detect-2.7.2-green.png)
 
 ## Tested on
 
