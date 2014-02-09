@@ -57,6 +57,17 @@ You should see something like this:
 
     2.7.7
 
+## Using as part of logic
+
+Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
+
+    {{if something == { mobile_detect } }}
+        ...
+        {# some content #}
+        ...
+    {{ endif }}
+
+
 ## Tested on
 
 + ![Statamic 1.6.1](http://b.repl.ca/v1/Statamic-1.6.1-green.png)
