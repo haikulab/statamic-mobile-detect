@@ -77,6 +77,7 @@ Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
 + ![Statamic 1.6.5](http://b.repl.ca/v1/Statamic-1.6.5-green.png)
 + ![Statamic 1.6.6](http://b.repl.ca/v1/Statamic-1.6.6-green.png)
 + ![Statamic 1.6.7](http://b.repl.ca/v1/Statamic-1.6.7-green.png)
++ ![Statamic 1.7](http://b.repl.ca/v1/Statamic-1.7-green.png)
 
 ## Disclaimer
 
