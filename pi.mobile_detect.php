@@ -7,9 +7,9 @@ class Plugin_Mobile_Detect extends Plugin {
 
     var $meta = array(
         'name'       => 'Mobile Detect',
-        'version'    => '0.1.2',
+        'version'    => '0.1.3',
         'author'     => 'Sergei Filippov',
-        'author_url' => 'http://sergeif.me'
+        'author_url' => 'http://haiku.co.nz'
     );
 
     /**
