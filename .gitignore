@@ -14,10 +14,10 @@ Thumbs.db
 /tests
 /codecept*
 /composer*
+test_theme
 
 # nodejs
 node_modules/*
-
 
 # logs and databases           #
 ################################
