@@ -11,7 +11,6 @@ Thumbs.db
 
 # local unit testing
 /vendor
-/tests
 /codecept*
 /composer*
 test_theme
@@ -39,5 +38,4 @@ node_modules/*
 
 # misc files                   #
 ################################
-tests/
 TODO
