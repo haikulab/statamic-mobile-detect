@@ -2,7 +2,7 @@
 
 # Statamic Mobile Detect Plugin
 
-This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.7.9](http://b.repl.ca/v1/Mobile_Detect-2.7.9-green.png)
+This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.8.0](http://b.repl.ca/v1/Mobile_Detect-2.8.0-green.png)
 
 ## Installing via git
 
@@ -55,7 +55,7 @@ You should see something like this:
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.7.9
+    2.8.0
 
 ## Using as part of logic
 
@@ -76,6 +76,7 @@ Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
 + ![Statamic 1.7.3](http://b.repl.ca/v1/Statamic-1.7.3-green.png)
 + ![Statamic 1.7.4](http://b.repl.ca/v1/Statamic-1.7.4-green.png)
 + ![Statamic 1.7.5](http://b.repl.ca/v1/Statamic-1.7.5-green.png)
++ ![Statamic 1.7.6](http://b.repl.ca/v1/Statamic-1.7.6-green.png)
 
 ## Support for Statamic 1.6.7 and prior
 
