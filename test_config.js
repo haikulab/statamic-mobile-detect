@@ -4,7 +4,7 @@
  */
 
 // run tests with
-// casperjs test --url="http://statamic175.dev/" tests/
+// casperjs test --url="http://statamic176.dev/" tests/
 
 /**
 * URLs
