@@ -71,7 +71,7 @@ Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
 ## Tested on
 
 + ![Statamic 1.8](http://b.repl.ca/v1/Statamic-1.8-green.png)
-+ ![Statamic 1.7-1.7.9](http://b.repl.ca/v1/Statamic-1.7.9-green.png)
++ ![Statamic 1.7-1.7.9](http://b.repl.ca/v1/Statamic-1.7--1.7.9-green.png)
 
 ## Support for Statamic 1.6.7 and prior
 
