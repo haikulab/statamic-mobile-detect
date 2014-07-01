@@ -2,7 +2,7 @@
 
 # Statamic Mobile Detect Plugin
 
-This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.8.0](http://b.repl.ca/v1/Mobile_Detect-2.8.0-green.png)
+This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.8.2](http://b.repl.ca/v1/Mobile_Detect-2.8.2-green.png)
 
 ## Installing via git
 
@@ -55,7 +55,7 @@ You should see something like this:
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.8.0
+    2.8.2
 
 ## Using as part of logic
 
