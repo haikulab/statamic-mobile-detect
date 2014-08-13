@@ -70,12 +70,8 @@ Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
 
 ## Tested on
 
-+ ![Statamic 1.8-1.8.1](http://b.repl.ca/v1/Statamic-1.8--1.8.1-green.png)
++ ![Statamic 1.8-1.8.2](http://b.repl.ca/v1/Statamic-1.8--1.8.2-green.png)
 + ![Statamic 1.7-1.7.9](http://b.repl.ca/v1/Statamic-1.7--1.7.9-green.png)
-
-## Support for Statamic 1.6.7 and prior
-
-Support for all version of Statamic prior to 1.7 have been deprecated and moved into a separate branch (**pre-1.7**).
 
 ## Disclaimer
 
@@ -83,7 +79,7 @@ I've 'written' this plugin for my own use. It comes without any guarantee, so yo
 
 ### MIT License
 
-Copyright (c) 2013 Sergei Filippov
+Copyright (c) 2014 Sergei Filippov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
