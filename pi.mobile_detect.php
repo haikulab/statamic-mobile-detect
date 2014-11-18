@@ -22,6 +22,9 @@ class Plugin_Mobile_Detect extends Plugin {
     function __construct() {
         parent::__construct();
 
+        require_once('Mobile-Detect/Mobile_Detect.php');
+
+        // todo: fix the detection!!
         $_folder = $this->addon_location . DIRECTORY_SEPARATOR ."Mobile-Detect";
         $_file = $_folder . DIRECTORY_SEPARATOR . "Mobile_Detect.php";
         if (is_dir($_folder)) {
