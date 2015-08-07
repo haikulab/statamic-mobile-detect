@@ -1,0 +1,28 @@
+{
+  "name": "mobile_detect",
+  "version": "0.0.2",
+  "description": "mobile detection for statamic cms",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "babel-eslint": "^3.1.18",
+    "casperjs": "^1.1.0-beta3",
+    "eslint": "^0.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "clear && casperjs test --url='http://10.0.1.100/' tests_casperjs/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/haikulab/statamic-mobile-detect.git"
+  },
+  "author": "Sergei Filippov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haikulab/statamic-mobile-detect/issues"
+  },
+  "homepage": "https://github.com/haikulab/statamic-mobile-detect#readme"
+}
