@@ -2,9 +2,9 @@
 
 # Statamic Mobile Detect Plugin
 
-![Statamic 1.9-1.11.0](http://b.repl.ca/v1/Statamic-1.7--1.11.0-green.png) + ![Mobile Detect 2.8.15](http://b.repl.ca/v1/Mobile_Detect-2.8.15-green.png)
+![Statamic 1.9-1.11.1](http://b.repl.ca/v1/Statamic-1.7--1.11.1-green.png) + ![Mobile Detect 2.8.17](http://b.repl.ca/v1/Mobile_Detect-2.8.17-green.png)
 
-This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.8.15](http://b.repl.ca/v1/Mobile_Detect-2.8.15-green.png)
+This plugin could not exist without the amazing work of the [Mobile Detect project](https://github.com/serbanghita/Mobile-Detect) ![Mobile Detect 2.8.17](http://b.repl.ca/v1/Mobile_Detect-2.8.17-green.png)
 
 ## Installing via git
 
@@ -26,9 +26,9 @@ You should see something like this:
 
         → git submodule update
         Cloning into 'Mobile-Detect'...
-        remote: Reusing existing pack: 1512, done.
-        remote: Total 1512 (delta 0), reused 0 (delta 0)
-        Receiving objects: 100% (1512/1512), 1.94 MiB | 596.00 KiB/s, done.
+        remote: Reusing existing pack: 1712, done.
+        remote: Total 1712 (delta 0), reused 0 (delta 0)
+        Receiving objects: 100% (1712/1712), 1.94 MiB | 596.00 KiB/s, done.
         Resolving deltas: 100% (825/825), done.
         Submodule path 'Mobile-Detect': checked out 'd6943b36f45a9ee654e87cd98832890797a228fb'
 
@@ -57,7 +57,7 @@ You should see something like this:
 
 ### Example Output for `{{ mobile_detect:library_version }}`
 
-    2.8.15
+    2.8.17
 
 ## Using as part of logic
 
@@ -72,7 +72,7 @@ Using `{{ mobile_detect }}` as part of an `{{ if }}` statement:
 
 ## Tested on
 
-+ ![Statamic 1.9.0-1.11.0](http://b.repl.ca/v1/Statamic-1.9--1.11.0-green.png)
++ ![Statamic 1.9.0-1.11.1](http://b.repl.ca/v1/Statamic-1.9--1.11.1-green.png)
 
 ## Disclaimer
 
